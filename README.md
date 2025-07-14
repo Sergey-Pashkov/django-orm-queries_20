@@ -35,6 +35,11 @@ source .venv/bin/activate
 
 3. **Установка зависимостей:**
 ```bash
+pip install -r requirements.txt
+```
+
+Или установка только Django:
+```bash
 pip install django
 ```
 

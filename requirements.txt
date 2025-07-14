@@ -1,0 +1,17 @@
+Django>=5.0.0
+# Django ORM Queries Project Dependencies
+
+# Core framework
+# Django provides the web framework and ORM functionality
+
+# Development dependencies (optional)
+# For enhanced development experience, you can also install:
+# django-debug-toolbar>=4.0.0  # For debugging SQL queries
+# django-extensions>=3.2.0     # Additional management commands
+# ipython>=8.0.0               # Better interactive shell
+
+# Production dependencies (optional)
+# For production deployment:
+# gunicorn>=21.0.0             # WSGI HTTP Server
+# psycopg2-binary>=2.9.0       # PostgreSQL adapter
+# whitenoise>=6.0.0            # Static files serving
